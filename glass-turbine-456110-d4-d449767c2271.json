@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "glass-turbine-456110-d4",
+  "private_key_id": "d449767c22713bc5b6d79c81a19cfc3dcc2a1a47",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCRBT1hnhGnyABt\nUSy+XVcZFFhwAQZYlVBS1G5RHGAwhdxQcijGs3OvZcaCuTz0rW6lkSHPjSfnjpmP\n4EXCXFaqMuHap8DSGimwLNu/bh8fTcsKzFAYTFSd1aBwfx1jRBZoMF51y7WXU2gX\nRjMJ1+Q1jGscnCRfDLbLCwUFdYZ4BJ3vQTtOaEamJP/saHD7m6VJ45ar1uie1CWO\nj2asYA1r4+19yMoGvitY9gioc2h+pj1AYpUORMiP9IZOTkAWpndPQv/x6Ed3WKji\nn0EW4CCnsEwLnlGS9nxIynI9fzbL4Lm89tuZ3ZjKAy1gShwNe4y385yBBq8396Zc\n2Zf9VdehAgMBAAECggEAQOCOOEil72CbSEyDbtqFJ5QhiGH8+844tAWTILhIFA0e\npeKceWA4xeQLLdo++dtI38sQzDCDBKWX73TO4Ie8wcGnptFbguLveYBoArj6NV/x\nEPCceHJVfJLghtNnS0xfldblu18Z6wwGSjs+hA3Qa2BZXuA/qUIf2LAiW/Ha6X/C\nrejlcimmm9pTSm/LfZX+cgj19sA5w0JrFSpOH0b1FIK/S65rZ1bHYMDoBbyelMOf\nVQFHR8tqksF+qBMCx3y2YrF8bLXM0NWMJ0adrnCZI5bPPjy/whpLz6a7BHAGXo2H\nswXSelJkgQFBy1KdBttmbFcnhEtORO8SeSz3Y2hVDQKBgQDJ40UdPXKk9nFCytAG\n40nFR+oJ2f2wDYSflcU15dQGk0NpdOgg+p8BzhtOXdayFebNMkMCtbcy5rURTG2w\nopd6W6MfuVe7iIpkKibbj41yNeHFGPanX6puTNDQLxhOP0RgTZswHue8ltXQW999\nU0hXjdY35bnat7thNBEMDFz60wKBgQC34/aR30R4fI2mi3kn+fk29wEjRoAPCUNQ\nS0F8rrfJPbjnloOtbIimhWCTTulElNuWXRp/A344/eZJd4di7UhvGrDHcqdSllfl\nI1H18qGTFkZDotKSWNwVBbk5LiZFPzlXGU3g3RqhVBIs0qSlk9axzztenyKDGnmf\nhRSlVFAzOwKBgQCDW/8SYXMA5uEXBoOIl8beOEaNlms8a+9JLtgck6f7h0Irkcef\n/bIMKKEXwnL5eMqt5PA5CSdkVTynPsV4UrKhCJMBB0WQXe098zdJUQRFtc1qwy1q\nBhMMpaqQarQz5XKF/rjk/Jbn3HTOl5i5IMFHRqCFylG9gCLJwmj9H+Y3xQKBgBRZ\nMWuq3RTIE5SeUmXOD3m5k3Kn1nvTdpNoAHMfkk6+ebuGuEN0gxqKH8mtLbrdDf9x\nhgEQDeOYlOcERwL3ZtCEj5NCaKmG4WsFoYgptR9lk5jgZ5SyKIha/cgKB0oaWOn+\nbtO3I78+YlR7aqS320YJvHQX/+WqBFNWkpZI4icJAoGAGvYsQWO0h5wq5BfLHGEM\nSLL499QQBPj+YEerVSEqLWWO0KUG3JhrbINOShv8LJKVdufft/b64O2TW8bLm3Fi\ns0sBrp3+JbxOeDw2TJJzBm20DzpCeVilkx/bAO/MS1n87l0oFzLWXPgAjdDvnBV8\n3qPZ1Ft8a7uk7tzr7G783KY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "paolo-canto-service-account@glass-turbine-456110-d4.iam.gserviceaccount.com",
+  "client_id": "112555393935489563059",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/paolo-canto-service-account%40glass-turbine-456110-d4.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
