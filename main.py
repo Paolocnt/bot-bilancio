@@ -18,7 +18,7 @@ def keep_alive():
 
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
 SHEET_ID = os.getenv("SHEET_ID")
-CRED_FILE = "glass-turbine-456110-d4-c970beef7a36.json"
+CRED_FILE = "credentials.json"
 
 scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
 creds = ServiceAccountCredentials.from_json_keyfile_name(CRED_FILE, scope)
