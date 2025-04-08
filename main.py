@@ -20,7 +20,7 @@ def keep_alive():
 # Variabili d’ambiente da Render
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
 SHEET_ID = os.getenv("SHEET_ID")
-CRED_FILE = "/etc/secrets/credentials.json"  # Percorso nel Secret File
+CRED_FILE = "/etc/secrets/credentials.json"
 
 # Setup Google Sheets
 scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
